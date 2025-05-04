@@ -1,3 +1,30 @@
+# Virtual environment
+venv/
+.env
+.env.*
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+logs/
+
+# OS-specific
+.DS_Store
+
+# IDEs/editors
+.vscode/
+.idea/
+
+# Python packages
+*.egg-info/
+dist/
+build/
+
+# Node (if using React later)
+node_modules/
 *.env
 __pycache__/
 node_modules/
